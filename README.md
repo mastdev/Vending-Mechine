@@ -17,4 +17,4 @@ Male to Male Jumper Wires
 3 IC-CD4070 (AND GAte)
 1 IC-CD4069 (Not Gate)
 
-
+Look up to the video for refernnce https://www.youtube.com/watch?v=JeFDyqkLeiE
