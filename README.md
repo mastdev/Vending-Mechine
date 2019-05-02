@@ -9,7 +9,7 @@ Male to Male Jumper Wires
 2 Bump Switches
 3 Push Buttons
 2 Seven Segment Display (Common Anode)
-20 Resistor (540 ohms) for BCD
+20 Resistor (540 ohms) for BCD to seven segment conversion
 2 IC-74LS47 for BCD
 3 IC-CD4013 (D flip lop)
 3 IC-CD4071 (OR Gate)
